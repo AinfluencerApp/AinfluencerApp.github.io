@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Ainfluencer</title>
+</head>
+<body>
+  <h1>Welcome to Ainfluencer</h1>
+  <p>Visit our main website here: <a href="https://ainfluencer.com" target="_blank">Ainfluencer.com</a></p>
+</body>
+</html>
